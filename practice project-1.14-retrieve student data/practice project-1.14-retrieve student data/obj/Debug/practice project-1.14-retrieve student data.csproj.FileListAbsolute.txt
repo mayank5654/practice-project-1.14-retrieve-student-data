@@ -1,0 +1,7 @@
+D:\practic exercise\practice project\project1.14\practice project-1.14-retrieve student data\practice project-1.14-retrieve student data\bin\Debug\practice project-1.14-retrieve student data.exe.config
+D:\practic exercise\practice project\project1.14\practice project-1.14-retrieve student data\practice project-1.14-retrieve student data\bin\Debug\practice project-1.14-retrieve student data.exe
+D:\practic exercise\practice project\project1.14\practice project-1.14-retrieve student data\practice project-1.14-retrieve student data\bin\Debug\practice project-1.14-retrieve student data.pdb
+D:\practic exercise\practice project\project1.14\practice project-1.14-retrieve student data\practice project-1.14-retrieve student data\obj\Debug\practice project-1.14-retrieve student data.csproj.AssemblyReference.cache
+D:\practic exercise\practice project\project1.14\practice project-1.14-retrieve student data\practice project-1.14-retrieve student data\obj\Debug\practice project-1.14-retrieve student data.csproj.CoreCompileInputs.cache
+D:\practic exercise\practice project\project1.14\practice project-1.14-retrieve student data\practice project-1.14-retrieve student data\obj\Debug\practice project-1.14-retrieve student data.exe
+D:\practic exercise\practice project\project1.14\practice project-1.14-retrieve student data\practice project-1.14-retrieve student data\obj\Debug\practice project-1.14-retrieve student data.pdb

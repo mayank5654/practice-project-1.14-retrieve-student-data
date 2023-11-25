@@ -1,0 +1,9 @@
+ 
+
+Name                   |   Roll Number  |   Class    |  Section
+
+
+1.Mayank kaushal                  56          10          A
+2.jethalal                        44          10          B
+3.SRK                             63          12          D
+4.monkey.d.luffy                  23          12          A
